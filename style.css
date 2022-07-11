@@ -1,0 +1,91 @@
+.product h1{
+    font-size: 30px;
+}
+.properties{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    flex-direction: row;
+}
+.menities{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+.images{
+    display: flex;
+    flex-direction: row;
+}
+.twelve{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between ;
+}
+.lorem{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    background-color: blue;
+    padding: 50px;
+    margin: 60px;
+    text-align: center;
+}
+.lorem h1{
+    font-size: 40px;
+}
+.lorem p{
+    font-size: 25px;
+}
+.twelve h1{
+    font-size: 43px;
+}
+.twelve p{
+    font-size: 19px;
+}
+.twelve h2{
+    font-size: 30px;
+}
+.topic h1{
+    font-size: 38px;
+    text-align: center;
+    text-decoration:blueviolet;
+}
+.topic p{
+    font-size: 20px;
+    text-align: center;
+}
+.many h1{
+    text-align: center;
+    font-size: 50px;
+}
+.many p{
+    text-align: center;
+    font-size: 26px;
+}
+.unity h2{
+    font-size: 43px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.unity p{
+    font-size: 29px;
+}
+.ip h1{
+    font-size: 52px;
+}
+.ip h2{
+    font-size: 39px;
+    text-align: center;
+}
+.ip p{
+    text-align: center;
+    font-size: 28px;
+}
+.negative{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 10px;
+    margin: 20px;
+    border: 15px;
+}
+}
