@@ -38,6 +38,9 @@ title{
     font-size: 40px;
 }
 h2:hover {background-color: blue;}
+h1:hover{
+    background-color: coral;
+}
 .ip h1{
 
 }
