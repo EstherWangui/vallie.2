@@ -38,6 +38,9 @@ title{
     font-size: 40px;
 }
 h2:hover {background-color: blue;}
+.ip h1{
+
+}
 .lorem p{
     font-size: 25px;
 }
@@ -57,7 +60,7 @@ color: darkcyan;
 .topic h1{
     font-size: 38px;
     text-align: center;
-    text-decoration:blueviolet;
+    color: blueviolet;
 }
 .topic p{
     font-size: 20px;
@@ -66,6 +69,7 @@ color: darkcyan;
 .many h1{
     text-align: center;
     font-size: 50px;
+    color: blue;
 }
 .many p{
     text-align: center;
@@ -80,6 +84,7 @@ color: darkcyan;
 }
 .ip h1{
     font-size: 52px;
+    color: blue;
 }
 .ip h2{
     font-size: 39px;
