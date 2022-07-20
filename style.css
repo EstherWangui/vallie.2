@@ -30,6 +30,10 @@
     margin: 60px;
     text-align: center;
 }
+title{
+    color: blue;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+}
 .lorem h1{
     font-size: 40px;
 }
