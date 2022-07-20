@@ -33,6 +33,7 @@
 .lorem h1{
     font-size: 40px;
 }
+h2:hover {background-color: blue;}
 .lorem p{
     font-size: 25px;
 }
