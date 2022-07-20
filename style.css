@@ -44,11 +44,11 @@ h2:hover {background-color: blue;}
     font-size: 19px;
 }
 .twelve h1{
-color: cyan;
+color: darkcyan;
 }
 .twelve h2{
     font-size: 30px;
-    color: cadetblue;
+    color: crimson;
 }
 .topic h1{
     font-size: 38px;
